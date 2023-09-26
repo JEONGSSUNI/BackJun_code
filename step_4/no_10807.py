@@ -8,4 +8,5 @@ num = int(input())
 #         sum += 1
 # print(sum)
 
+
 print(n_list.count(num))
