@@ -22,7 +22,7 @@
 # 동적 프로그래밍 (DP)
 n, k = map(int, input().split())
 
-dp = [[0 for _ in range(n + 1)][0 for _ in range(k + 1)]]
+# dp = [[0 for _ in range(n + 1)][0 for _ in range(k + 1)]]
 
 
 thing_list = []
